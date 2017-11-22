@@ -1,0 +1,19 @@
+body {
+    background: #000;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    font-family: georgia;
+    text-align: center;
+  }
+
+  a {
+    color: skyblue;
+    text-decoration: none
+  }
+
+  #info {
+    position: absolute;
+    width: 100%;
+  }
